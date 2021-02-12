@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Sourav Kapil👋
 
 <!--
 **Souravkapil/Souravkapil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +16,16 @@ Here are some ideas to get you started:
 -->
 
 
-<h2> Hii there, I am Sourav Kapil 👋</h2>
+<h2>Engineering Student | Developer | Dancer 👯 </h2>
 
 - 🔭 I’m currently working on a project <strong>Hotel Management System</strong>
 - 💬 Ask me about <strong>Python and Django</strong>
 - 🌱 I’m currently learning <strong> Javascript </strong>
-- 📫 How to reach me: <a href="www.linkedin.com/in/sourav-kapil-15-2000" target="_blank">LinkedIn</a>
+- 📫 How to reach me: <a href="www.linkedin.com/in/sourav-kapil-15-2000" target="_blank">LinkedIn</a><br>
                        <a href="https://www.instagram.com/sourav_kapil" target="_blank">Instagram</a>
+- ⚡ Fun fact: I love <strong>Soft Music😄</strong>
+
+
+Connect with me : 
+
+
