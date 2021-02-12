@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a project <strong>Hotel Management System</strong>
 - 💬 Ask me about <strong>Python and Django</strong>
 - 🌱 I’m currently learning <strong> Javascript </strong>
-- 📫 How to reach me: <a href="www.linkedin.com/in/sourav-kapil-2000" target="_blank">LinkedIn</a>
+- 📫 How to reach me: <a href="www.linkedin.com/in/sourav-kapil-15-2000" target="_blank">LinkedIn</a>
                        <a href="https://www.instagram.com/sourav_kapil" target="_blank">Instagram</a>
