@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="center"> Hii there, I am Sourav Kapil 👋</h2>
+<h2> Hii there, I am Sourav Kapil 👋</h2>
 
 - 🔭 I’m currently working on a project <strong>Hotel Management System</strong>
 - 💬 Ask me about <strong>Python and Django</strong>
 - 🌱 I’m currently learning <strong> Javascript </strong>
-- 📫 How to reach me: <a href="www.linkedin.com/in/sourav-kapil-2000">LinkedIn</a>
+- 📫 How to reach me: <a href="www.linkedin.com/in/sourav-kapil-2000" target="_blank">LinkedIn</a>
+                       <a href="https://www.instagram.com/sourav_kapil" target="_blank">Instagram</a>
