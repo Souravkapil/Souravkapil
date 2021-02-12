@@ -1,4 +1,4 @@
-<!--### Hi there 👋--!>
+### Hi there 👋
 
 <!--
 **Souravkapil/Souravkapil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---!>
+-->
 
 
-<h1 align="center"> Hii there, I am Sourav Kapil 👋</h1>
+<h1> Hii there, I am Sourav Kapil 👋</h1>
+
+- 🔭 I’m currently working on a project <strong>Hotel Management System</strong>
+- 💬 Ask me about <strong>Python and Django</strong>
+- 🌱 I’m currently learning <strong> Javascript </strong>
+- 📫 How to reach me: <a href="www.linkedin.com/in/sourav-kapil-2000" target="blank">LinkedIn</a>
