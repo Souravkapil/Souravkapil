@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a project <strong>Hotel Management System</strong>
 - 💬 Ask me about <strong>Python and Django</strong>
 - 🌱 I’m currently learning <strong> Javascript </strong>
-- 📫 How to reach me: <a href="www.linkedin.com/in/sourav-kapil-15-2000" target="_blank">LinkedIn</a>
+- 📫 How to reach me: <a href="www.linkedin.com/in/sourav-kapil-15-2000" target="_blank">Linkedin</a>
                        <a href="https://www.instagram.com/sourav_kapil" target="_blank">Instagram</a>
 - ⚡ Fun fact: I love <strong>Soft Music😄</strong>
 
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
