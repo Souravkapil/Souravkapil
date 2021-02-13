@@ -28,11 +28,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left"  | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
-[<img align="left"  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[<img align="left"  | LinkedIn" width="22px" src="www.linkedin.com/in/sourav-kapil-15-2000" />]
-[<img align="left"  | Instagram" width="22px" src="https://www.instagram.com/sourav_kapil" />]
+[<img align="left" alt="Sourav Kapil | LinkedIn" width="22px" src="www.linkedin.com/in/sourav-kapil-15-2000" />][linkedin]
+[<img align="left" alt="souravkapil | Instagram" width="22px" src="https://www.instagram.com/sourav_kapil" />][instagram]
 
-
-
+<br />
 
