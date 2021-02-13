@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravkapil" alt="souravkapil" /></a> </p>
 
 <img align="right" alt="Coding" width="370px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
+<br>
 
 - 🔭 I’m currently working on a project <strong>Hotel Management System.</strong>
 - 💬 Ask me about: <strong>Python and Django.</strong>
@@ -18,6 +18,7 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
+<br>
 <p align="left">
 <a href="https://twitter.com/@kapil_sourav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@kapil_sourav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sourav-kapil-15-2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sourav-kapil-15-2000" height="30" width="40" /></a>
