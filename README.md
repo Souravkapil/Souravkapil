@@ -21,11 +21,19 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a project <strong>Hotel Management System</strong>
 - 💬 Ask me about <strong>Python and Django</strong>
 - 🌱 I’m currently learning <strong> Javascript </strong>
-- 📫 How to reach me: <a href="www.linkedin.com/in/sourav-kapil-15-2000" target="_blank">LinkedIn</a><br>
+- 📫 How to reach me: <a href="www.linkedin.com/in/sourav-kapil-15-2000" target="_blank">LinkedIn</a>
                        <a href="https://www.instagram.com/sourav_kapil" target="_blank">Instagram</a>
 - ⚡ Fun fact: I love <strong>Soft Music😄</strong>
 
 
-Connect with me : 
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="www.linkedin.com/in/sourav-kapil-15-2000" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/sourav_kapil" />][instagram]
+
+<br />
+
 
 
