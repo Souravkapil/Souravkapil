@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="Sourav Kapil | LinkedIn" width="22px" src="www.linkedin.com/in/sourav-kapil-15-2000" />][linkedin]
-[<img align="left" alt="souravkapil | Instagram" width="22px" src="https://www.instagram.com/sourav_kapil" />][instagram]
+[<img align="left" alt="Souravkapil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Souravkapil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
