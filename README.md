@@ -1,4 +1,4 @@
-### Hi there, I am Sourav Kapil👋
+### Hi there, I am Sourav Kapil👋. I ❤ contributing to open source.
 
 <!--
 **Souravkapil/Souravkapil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2>Engineering Student | Developer | Dancer 👯 </h2>
+<h2 style="color:red;"> Engineering Student | Web Developer | Dancer 👯 </h2>
 
 - 🔭 I’m currently working on a project <strong>Hotel Management System</strong>
 - 💬 Ask me about <strong>Python and Django</strong>
@@ -34,7 +34,24 @@ Here are some ideas to get you started:
 <img align="left" alt="Souravkapil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
+<br />
 
+<h2>Skills:</h2>
+
+-<strong>HTML | CSS</strong><br>
+-<strong>Bootstrap | Wordpress</strong><br>
+-<strong>C | Python</strong><br>
+-<strong>Django | Sqlite</strong><br>
+-<strong>Adobe Photoshop</strong><br>
+-<strong>DBMS | OOPs</strong><br>
+
+<br/>
+
+### Github stats:
+
+![Sourav stats](https://github-readme-stats.vercel.app/api?username=Souravkapil&count_private=true&show_icons=true&theme=radical)
+<br/>
+<br/>
 
 ### Languages and Tools:
 
