@@ -1,5 +1,3 @@
-
-
 <p align="left"> <a href="https://twitter.com/kapil_sourav" target="blank"><img src="https://img.shields.io/twitter/follow/kapil_sourav?logo=twitter&style=for-the-badge" alt="kapil_sourav" /></a> </p>
 
 <h1 align="center">Hi there, I'm Sourav Kapil👋. I ❤ contributing to open source.</h1>
