@@ -12,8 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravkapil" alt="souravkapil" /></a> </p>
 
-<img align="right" alt="Coding" width="370px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-<br>
+<img align="right" width="200px"  src="https://user-images.githubusercontent.com/78931820/107874295-9239f900-6ede-11eb-912f-44c316c8a77b.gif">
 
 - 🔭 I’m currently working on a project <strong>Hotel Management System.</strong>
 - 💬 Ask me about: <strong>Python and Django.</strong>
@@ -33,6 +32,7 @@
 <br>
 
 <h2>Skills:</h2>
+<img align="right" alt="Coding" width="370px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - <strong>HTML | CSS</strong><br>
 - <strong>Bootstrap | Wordpress</strong><br>
