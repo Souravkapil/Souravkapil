@@ -13,6 +13,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravkapil" alt="souravkapil" /></a> </p>
 
 <img align="right" top="20px" width="230px"  src="https://user-images.githubusercontent.com/78931820/107874295-9239f900-6ede-11eb-912f-44c316c8a77b.gif">
+
+
 - 🔭 I’m currently working on a project <strong>Hotel Management System.</strong> 
 - 💬 Ask me about: <strong>Python and Django.</strong> 
 - 🌱 I’m currently learning <strong> Javascript. </strong>
