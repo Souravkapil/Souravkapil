@@ -1,5 +1,9 @@
 <p align="left"> <a href="https://twitter.com/kapil_sourav" target="blank"><img src="https://img.shields.io/twitter/follow/kapil_sourav?logo=twitter&style=for-the-badge" alt="kapil_sourav" /></a> </p>
 
+![Banner gif](https://user-images.githubusercontent.com/78931820/107874136-771ab980-6edd-11eb-8ec6-6a3fb8d5f0e7.gif)
+
+
+
 <h1 align="center">Hi there, I'm Sourav Kapil, COER's Student<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 <h2 align="center">Engineering Student | Web Developer | Dancer 👯</h2>
