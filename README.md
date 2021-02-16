@@ -49,6 +49,9 @@
 
 ![Sourav stats](https://github-readme-stats.vercel.app/api?username=Souravkapil&count_private=true&show_icons=true&theme=radical)
 <br>
+
+![Top lans](https://github-readme-stats.vercel.app/api/top-langs?username=souravkapil&show_icons=true&locale=en&layout=compact)
+<br>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
