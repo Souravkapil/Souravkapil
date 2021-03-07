@@ -15,7 +15,7 @@
 <img align="right" top="20px" width="230px"  src="https://user-images.githubusercontent.com/78931820/107874295-9239f900-6ede-11eb-912f-44c316c8a77b.gif">
 
 
-- 🔭 I’m currently working on a project <strong>Hotel Management System.</strong> 
+- 🔭 I’m currently working on <strong>Javascript and Node.JS</strong> 
 - 💬 Ask me about: <strong>Python and Django.</strong> 
 - 🌱 I’m currently learning <strong> Javascript. </strong>
 - 📫 How to reach me: <strong>souravsharma71400@gmail.com</strong>
