@@ -15,9 +15,9 @@
 <img align="right" top="20px" width="230px"  src="https://user-images.githubusercontent.com/78931820/107874295-9239f900-6ede-11eb-912f-44c316c8a77b.gif">
 
 
-- 🔭 I’m currently working on <strong>Javascript.</strong> 
+- 🔭 I’m currently working on <strong>Database Management System.</strong> 
 - 💬 Ask me about: <strong>Python and Django.</strong> 
-- 🌱 I’m currently learning <strong> Javascript. </strong>
+- 🌱 I’m currently learning <strong> SQL. </strong>
 - 📫 How to reach me: <strong>souravsharma71400@gmail.com</strong>
 - ⚡ Fun fact: I love <strong>Soft Music🎶.</strong>
 <br>
@@ -37,11 +37,11 @@
 <h2>Skills:</h2>
 
 - <strong>HTML | CSS</strong><br>
-- <strong>Bootstrap | Wordpress</strong><br>
+- <strong>Bootstrap | Django</strong><br>
 - <strong>C | Python</strong><br>
-- <strong>Django | Sqlite</strong><br>
-- <strong>Adobe Photoshop</strong><br>
+- <strong>SQL | MySql</strong><br>
 - <strong>DBMS | OOPs</strong><br>
+- <strong>Filmora X | Audacity</strong><br>
   <br>
   
  
