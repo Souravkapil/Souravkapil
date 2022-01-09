@@ -15,9 +15,9 @@
 <img align="right" top="20px" width="230px"  src="https://user-images.githubusercontent.com/78931820/107874295-9239f900-6ede-11eb-912f-44c316c8a77b.gif">
 
 
-- 🔭 I’m currently working on <strong>Database Management System.</strong> 
-- 💬 Ask me about: <strong>Python and Django.</strong> 
-- 🌱 I’m currently learning <strong> SQL. </strong>
+- 🔭 I’m currently working on <strong>Time Series Analysis.</strong> 
+- 💬 Ask me about: <strong>Machine Learning and Deep Learning.</strong> 
+- 🌱 I’m currently learning <strong> NLP and Computer Vision. </strong>
 - 📫 How to reach me: <strong>souravsharma71400@gmail.com</strong>
 - ⚡ Fun fact: I love <strong>Soft Music🎶.</strong>
 <br>
@@ -37,9 +37,13 @@
 <h2>Skills:</h2>
 
 - <strong>HTML | CSS</strong><br>
-- <strong>Bootstrap | Django</strong><br>
-- <strong>C | Python</strong><br>
-- <strong>SQL | MySql</strong><br>
+- <strong>Bootstrap | Django | Flask</strong><br>
+- <strong>C | Python | JavaScript</strong><br>
+- <strong>Artificial Neural Network</strong><br>
+- <strong>Machine Learning | Deep Learning</strong><br>
+- <strong>Scikit-Learn | Tensorflow | Keras</strong><br>
+- <strong>NLP | Computer Vision</strong><br>
+- <strong>SQL | Mysql</strong><br>
 - <strong>DBMS | OOPs</strong><br>
 - <strong>Filmora X | Audacity</strong><br>
   <br>
