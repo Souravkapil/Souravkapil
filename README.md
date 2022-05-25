@@ -6,6 +6,11 @@ Data Scientist
 
 I have been working at Ksolves India Limited as a Data Scientist. Machine Learning and Deep Learning Enthusiast.
 
+<a href="https://www.twitter.com/kapil_sourav" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/kapil_sourav?logo=twitter&style=for-the-badge&color=ec4899&labelColor=000000"
+/></a><a href="https://www.github.com/souravkapil" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/souravkapil?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" /></a>
+
 * 🌍  I'm based in <strong>India</strong>
 * 💬  Ask me about: <strong>Machine Learning and Deep Learning.</strong>
 * ✉️   You can contact me at [souravkapil2000@gmail.com](mailto:souravkapil2000@gmail.com)
@@ -14,26 +19,26 @@ I have been working at Ksolves India Limited as a Data Scientist. Machine Learni
 * 🤝  I'm open to collaborating on <strong>ML Projects</strong>
 * ⚡   Fun fact: I love <strong>Soft Music</strong>.
 
-<a href="https://www.twitter.com/kapil_sourav" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/kapil_sourav?logo=twitter&style=for-the-badge&color=ec4899&labelColor=000000"
-/></a><a href="https://www.github.com/souravkapil" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/souravkapil?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" /></a>
-
-<img align="right" alt="Coding" width="400px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ### Skills
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
+
+<code><img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" ></code>
+<code><img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" ></code>
+<code><img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" ></code>
+<code><img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" ></code>
+<code><img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" ></code>
+<code><img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" ></code>
+<code><img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" ></code>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a><code><img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" ></code>
+<code><img height="36" width="36" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" ></code>
+<code><img height="36" width="36" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" ></code>
+<code><img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" ></code>
+<code><img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" ></code>
+<code><img height="36" width="36" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" ></code>
+ 
 </p> 
 
 - <strong>HTML | CSS</strong><br>
