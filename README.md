@@ -1,40 +1,40 @@
-<p align="left"> <a href="https://twitter.com/kapil_sourav" target="blank"><img src="https://img.shields.io/twitter/follow/kapil_sourav?logo=twitter&style=for-the-badge" alt="kapil_sourav" /></a> </p>
+Hi 👋 My name is Sourav Kapil
+=============================
 
-![Banner gif](https://user-images.githubusercontent.com/78931820/107874136-771ab980-6edd-11eb-8ec6-6a3fb8d5f0e7.gif)
+Data Scientist
+--------------
 
+I have been working at Ksolves India Limited as a Data Scientist. Machine Learning and Deep Learning Enthusiast.
 
+* 🌍  I'm based in <strong>India</strong>
+* 💬  Ask me about: <strong>Machine Learning and Deep Learning.</strong>
+* ✉️   You can contact me at [souravkapil2000@gmail.com](mailto:souravkapil2000@gmail.com)
+* 🔭  I’m currently working on <strong>Time Series Analysis.</strong> 
+* 🧠  I'm currently learning <strong>NLP</strong> and <strong>Computer Vision</strong>
+* 🤝  I'm open to collaborating on <strong>ML Projects</strong>
+* ⚡   Fun fact: I love <strong>Soft Music</strong>.
 
-<h1 align="center">Hi there, I'm Sourav Kapil, Data Scientist<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1>
-<h2 align="center">Data Scientist| Web Developer | Editor 👯</h2>
+<a href="https://www.twitter.com/kapil_sourav" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/kapil_sourav?logo=twitter&style=for-the-badge&color=ec4899&labelColor=000000"
+/></a><a href="https://www.github.com/souravkapil" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/souravkapil?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souravkapil&label=Profile%20views&color=0e75b6&style=flat" alt="souravkapil" /> </p>
+<img align="right" alt="Coding" width="400px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravkapil" alt="souravkapil" /></a> </p>
+### Skills
 
-<img align="right" top="20px" width="230px"  src="https://user-images.githubusercontent.com/78931820/107874295-9239f900-6ede-11eb-912f-44c316c8a77b.gif">
-
-
-- 🔭 I’m currently working on <strong>Time Series Analysis.</strong> 
-- 💬 Ask me about: <strong>Machine Learning and Deep Learning.</strong> 
-- 🌱 I’m currently learning <strong> NLP and Computer Vision. </strong>
-- 📫 How to reach me: <strong>souravsharma71400@gmail.com</strong>
-- ⚡ Fun fact: I love <strong>Soft Music🎶.</strong>
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<br>
 <p align="left">
-<a href="https://twitter.com/@kapil_sourav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@kapil_sourav" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sourav-kapil-15-2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sourav-kapil-15-2000" height="30" width="40" /></a>
-<a href="https://instagram.com/sourav_kapil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sourav_kapil" height="30" width="40" /></a>
-</p>
-<br>
-<br>
-
-
-<img align="right" alt="Coding" width="370px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-<h2>Skills:</h2>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
+</p> 
 
 - <strong>HTML | CSS</strong><br>
 - <strong>Bootstrap | Django | Flask</strong><br>
@@ -47,28 +47,23 @@
 - <strong>DBMS | OOPs</strong><br>
 - <strong>Filmora X | Audacity</strong><br>
   <br>
-  
- 
-### Github stats:
 
-![Sourav stats](https://github-readme-stats.vercel.app/api?username=Souravkapil&count_private=true&show_icons=true&theme=radical)
-<br>
+### Socials
 
-![Top lans](https://github-readme-stats.vercel.app/api/top-langs?username=souravkapil&show_icons=true&locale=en&layout=compact)
-<br>
-<br>
+<p align="left"> <a href="https://www.github.com/souravkapil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sourav_kapil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sourav-kapil-15-2000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kapil_sourav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Badges
 
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-<br> 
+<b>My GitHub Stats</b>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravkapil&" alt="souravkapil" /></p>
+<a href="http://www.github.com/souravkapil"><img src="https://github-readme-stats.vercel.app/api?username=souravkapil&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="souravkapil's GitHub stats" /></a>
 
+<a href="http://www.github.com/souravkapil"><img src="https://github-readme-streak-stats.herokuapp.com/?user=souravkapil&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="http://www.github.com/souravkapil"><img src="https://activity-graph.herokuapp.com/graph?username=souravkapil&bg_color=000000&color=ffffff&line=ec4899&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+<a href="https://github.com/souravkapil" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravkapil&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<b>Top Repositories</b>
 
-
+<div width="100%" align="center"><a href="https://github.com/souravkapil/HotelManagement" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=souravkapil&repo=HotelManagement&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/souravkapil/BootstrapBlog" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=souravkapil&repo=BootstrapBlog&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
