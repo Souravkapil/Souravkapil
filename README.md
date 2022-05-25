@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/souravkapil?logo=github&style=for-t
 <code><img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" ></code>
 <code><img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" ></code>
 <code><img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" ></code>
-<code><img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" ></code>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a><code><img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" ></code>
 <code><img height="36" width="36" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" ></code>
 <code><img height="36" width="36" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" ></code>
