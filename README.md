@@ -13,7 +13,7 @@ src="https://img.shields.io/github/followers/souravkapil?logo=github&style=for-t
 
 * 🌍  I'm based in <strong>India</strong>
 * 💬  Ask me about: <strong>Machine Learning and Deep Learning.</strong>
-* ✉️   You can contact me at [souravkapil2000@gmail.com](mailto:souravkapil2000@gmail.com)
+* ✉️   You can contact me at [souravsharma71400@gmail.com](mailto:souravkapil2000@gmail.com)
 * 🔭  I’m currently working on <strong>Time Series Analysis.</strong> 
 * 🧠  I'm currently learning <strong>NLP</strong> and <strong>Computer Vision</strong>
 * 🤝  I'm open to collaborating on <strong>ML Projects</strong>
