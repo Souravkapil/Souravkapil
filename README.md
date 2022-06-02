@@ -19,7 +19,6 @@ src="https://img.shields.io/github/followers/souravkapil?logo=github&style=for-t
 * 🤝  I'm open to collaborating on <strong>ML Projects</strong>
 * ⚡   Fun fact: I love <strong>Soft Music</strong>.
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ### Skills
 
@@ -40,8 +39,9 @@ src="https://img.shields.io/github/followers/souravkapil?logo=github&style=for-t
 <code><img height="36" width="36" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" ></code>
  
 </p> 
+<br>
 
-- <strong>HTML | CSS</strong><br>
+- <strong>HTML | CSS</strong><br>  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 - <strong>Bootstrap | Django | Flask</strong><br>
 - <strong>C | Python | JavaScript</strong><br>
 - <strong>Artificial Neural Network</strong><br>
@@ -71,5 +71,5 @@ src="https://img.shields.io/github/followers/souravkapil?logo=github&style=for-t
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Souravkapil/DeepLearning.AI-Tensorflow-Specialisation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=souravkapil&repo=DeepLearning.AI-Tensorflow-Specialisation&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/souravkapil/HotelManagement" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=souravkapil&repo=HotelManagement&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Souravkapil/DeepLearning.AI-Tensorflow-Specialisation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=souravkapil&repo=DeepLearning.AI-Tensorflow-Specialisation&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/souravkapil/Netflix-Movie_Recommender_System" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=souravkapil&repo=Netflix-Movie_Recommender_System&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
  
