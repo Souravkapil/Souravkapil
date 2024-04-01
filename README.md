@@ -4,7 +4,7 @@ Hi 👋 My name is Sourav Kapil
 Data Scientist
 --------------
 
-I have been working at Ksolves India Limited as a Data Scientist. Machine Learning and Deep Learning Enthusiast.
+I am working at Blogic Software Technology Private Limited as a Data Scientist. Machine Learning and Deep Learning Enthusiast.
 
 <a href="https://www.twitter.com/kapil_sourav" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/kapil_sourav?logo=twitter&style=for-the-badge&color=ec4899&labelColor=000000"
@@ -14,8 +14,8 @@ src="https://img.shields.io/github/followers/souravkapil?logo=github&style=for-t
 * 🌍  I'm based in <strong>India</strong>
 * 💬  Ask me about: <strong>Machine Learning and Deep Learning.</strong>
 * ✉️   You can contact me at [souravsharma71400@gmail.com](mailto:souravkapil2000@gmail.com)
-* 🔭  I’m currently working on <strong>Time Series Analysis.</strong> 
-* 🧠  I'm currently learning <strong>NLP</strong> and <strong>Computer Vision</strong>
+* 🔭  I’m currently working on <strong>NLP and Time Series Analysis.</strong> 
+* 🧠  I'm currently learning <strong>Generative AI</strong> and <strong>LLMs</strong>
 * 🤝  I'm open to collaborating on <strong>ML Projects</strong>
 * ⚡   Fun fact: I love <strong>Soft Music</strong>.
 
