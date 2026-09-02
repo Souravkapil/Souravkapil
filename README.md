@@ -1,10 +1,10 @@
 Hi 👋 My name is Sourav Kapil
 =============================
 
-Data Scientist
+Senior AI/ML Engineer
 --------------
 
-I am working at Blogic Software Technology Private Limited as a Data Scientist. Machine Learning and Deep Learning Enthusiast.
+I am working at Innodata Inc. as a Senior AI/ML Engineer. AI, Machine Learning and Deep Learning Enthusiast.
 
 <a href="https://www.twitter.com/kapil_sourav" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/kapil_sourav?logo=twitter&style=for-the-badge&color=ec4899&labelColor=000000"
@@ -12,11 +12,11 @@ src="https://img.shields.io/twitter/follow/kapil_sourav?logo=twitter&style=for-t
 src="https://img.shields.io/github/followers/souravkapil?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" /></a>
 
 * 🌍  I'm based in <strong>India</strong>
-* 💬  Ask me about: <strong>Machine Learning and Deep Learning.</strong>
-* ✉️   You can contact me at [souravsharma71400@gmail.com](mailto:souravkapil2000@gmail.com)
-* 🔭  I’m currently working on <strong>NLP and Time Series Analysis.</strong> 
-* 🧠  I'm currently learning <strong>Generative AI</strong> and <strong>LLMs</strong>
-* 🤝  I'm open to collaborating on <strong>ML Projects</strong>
+* 💬  Ask me about: <strong>AI, Machine Learning and Deep Learning.</strong>
+* ✉️   You can contact me at [souravkapil2000@gmail.com](mailto:souravkapil2000@gmail.com)
+* 🔭  I’m currently working on <strong>GenAI and Agentic AI</strong> 
+* 🧠  I'm currently learning <strong>MCP</strong> and <strong>Agents Workflow</strong>
+* 🤝  I'm open to collaborating on <strong>AI Projects</strong>
 * ⚡   Fun fact: I love <strong>Soft Music</strong>.
 
 
@@ -50,7 +50,8 @@ src="https://img.shields.io/github/followers/souravkapil?logo=github&style=for-t
 - <strong>NLP | Computer Vision</strong><br>
 - <strong>SQL | Mysql</strong><br>
 - <strong>DBMS | OOPs</strong><br>
-- <strong>Filmora X | Audacity</strong><br>
+- <strong>GenAI | Agentic AI</strong><br>
+- <strong>Langchain | Langgraph</strong><br>
   <br>
 
 ### Socials
